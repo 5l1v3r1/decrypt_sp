@@ -11,7 +11,7 @@ mathieulh for original psp code
 ## usage
 
 grab msid.bin using 
-![yoti's_msiddumper](https://github.com/Yoti/psp_msiddump)
+[yoti's msiddumper](https://github.com/Yoti/psp_msiddump)
 
 place msid.bin from jigkick files and prx folder with prx.enc
 
